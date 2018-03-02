@@ -4,4 +4,5 @@
 Car simulator program created using Java.
 
 
-![alt text](http://i1210.photobucket.com/albums/cc420/mj4ever001/SimuladorCoche.png)
+
+<img src="http://i1210.photobucket.com/albums/cc420/mj4ever001/SimuladorCoche.png" width="300" height="300">
